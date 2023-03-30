@@ -1,8 +1,5 @@
 # Snowlake
 
-## Web Application URL
-* https://snowlake.herokuapp.com
-
 ## About
 * Changelog - Google OAuth Addition, New Dark Theme
 * Snowlake is a single page prototype management application
